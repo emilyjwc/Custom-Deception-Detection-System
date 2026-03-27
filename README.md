@@ -44,7 +44,3 @@ This system was developed as part of a research project at the Dept. of Manageme
 |--------|-------|
 | Accuracy | 88% |
 | Award | 3rd Place — NCHU MIS Capstone Project (Jun 2022) |
-
-## Author
-
-Emily Chang — [LinkedIn](https://linkedin.com/in/emilyjwchang) · [Portfolio](https://emilychang.netlify.app)
